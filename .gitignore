@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+out/
+.idea/workspace.xml
+.idea/tasks.xml
+*.iml.bak
+
+# Compiled class files
+*.class
+
+# OS
+Thumbs.db
+.DS_Store
